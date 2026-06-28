@@ -5,9 +5,11 @@ package ru.mihon;
  *
  */
 public class App 
-{
-    public static void main( String[] args )
+{    public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        String x = "Hello, world!";
+        System.out.println(x);
+
+        System.out.println("LOH");
     }
 }
